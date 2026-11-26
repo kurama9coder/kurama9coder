@@ -1,8 +1,4 @@
 <!-- ============ BANNER ============ -->
-<p align="center">
-  <img src="./assets/banner.jpg" alt="Kurama banner" width="100%"/>
-</p>
-
 <h1 align="center">Hey, I'm Kurama 🦊</h1>
 
 <p align="center">
